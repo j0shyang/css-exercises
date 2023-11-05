@@ -1,7 +1,7 @@
 # Exercise 01 - CSS Methods
 
-![Example Image](desired-outcome.jpg)
+### Desired Outcome
 
-**div:** a red background, white text, a font size of 32px, center aligned, and bold  
-**p:** a green background, white text, and a font size of 18px  
-**button:** an orange background and a font size of 18px
+---
+
+![Example Image](desired-outcome.jpg)
