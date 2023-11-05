@@ -1,5 +1,7 @@
 # Exercise 05 - Descendant Combinator
 
-![Example Image](./desired-outcome.jpg)
+### Desired Outcome
 
-* Only the `p` elements that are descendants of the `div` element should have a yellow background, red text, a font size of 20px, and center aligned.
+---
+
+![Example Image](./desired-outcome.jpg)
