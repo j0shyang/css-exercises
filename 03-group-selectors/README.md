@@ -1,7 +1,7 @@
 # Exercise 03 - Grouping Selectors
 
-![Example Image](desired-outcome.jpg)
+### Desired Outcome
 
-**The first element:** a black background and white text  
-**The second element:** a yellow background  
-**Both elements:** a font size of 28px and a list of fonts containing Helvetica and Times New Roman, with sans-serif as a fallback
+---
+
+![Example Image](desired-outcome.jpg)
