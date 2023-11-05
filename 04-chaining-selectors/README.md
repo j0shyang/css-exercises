@@ -1,6 +1,7 @@
 # Exercise 04 - Chaining Selectors
 
-![Example Image](./images/desired-outcome.jpg)
+### Desired Outcome
 
-* Make the element with both the `avatar` and `proportioned` classes 300 pixels wide, then give it a height so that it retains its original square proportions (don't hardcode in a pixel value for the height!).  
-* Make the element with both the `avatar` and `distorted` classes 200 pixels wide, then make its height twice as big as its width (here you should hardcode in a pixel value).
+---
+
+![Example Image](./images/desired-outcome.jpg)
