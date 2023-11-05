@@ -1,4 +1,4 @@
-# Exercise 02 - Grouping Selectors
+# Exercise 03 - Grouping Selectors
 
 ![Example Image](desired-outcome.jpg)
 
