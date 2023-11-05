@@ -1,4 +1,4 @@
-# Exercise 02 - Grouping Selectors
+# Exercise 04 - Chaining Selectors
 
 ![Example Image](./images/desired-outcome.jpg)
 
