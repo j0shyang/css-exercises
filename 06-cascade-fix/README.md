@@ -1,7 +1,5 @@
 # Exercise 06 - Cascade Fix
 
----
-
 ### Desired Outcome
 
 ---
