@@ -55,4 +55,5 @@ ul {
     display: flex;
     list-style-type: none;
     margin-right: auto;
+    gap: 15px;
 }
