@@ -29,6 +29,12 @@ img {
     text-align: center;
 }
 
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 /* do not edit this footer */
 .footer {
     position: fixed;
