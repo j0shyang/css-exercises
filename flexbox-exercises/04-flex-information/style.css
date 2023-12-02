@@ -21,6 +21,8 @@ img {
 
 .container {
     display: flex;
+    padding: 32px;
+    gap: 52px;
 }
 
 /* do not edit this footer */
