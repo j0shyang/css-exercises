@@ -25,6 +25,10 @@ img {
     gap: 52px;
 }
 
+.text {
+    text-align: center;
+}
+
 /* do not edit this footer */
 .footer {
     position: fixed;
