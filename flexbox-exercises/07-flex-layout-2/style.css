@@ -25,6 +25,8 @@ body {
 
 .footer {
     display: flex;
+    justify-content: center;
+    align-items: center;
     height: 72px;
     background: #eee;
     color: darkmagenta;
@@ -37,7 +39,7 @@ body {
     box-sizing: border-box;
 }
 
-.container {
+.card-container {
     display: flex;
     flex: 1;
 }
