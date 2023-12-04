@@ -37,6 +37,26 @@ body {
     flex-shrink: 0;
     width: 300px;
     background: royalblue;
+    font-size: 24px;
+    font-family: sans-serif;
+    padding-left: 15px;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    list-style: none;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    color: white;
 }
 
 .outer-container {
