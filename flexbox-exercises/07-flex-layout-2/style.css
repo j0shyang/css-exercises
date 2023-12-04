@@ -34,19 +34,26 @@ body {
 
 .sidebar {
     display: flex;
-    flex: 1;
+    flex-shrink: 0;
     width: 300px;
     background: royalblue;
-    box-sizing: border-box;
+}
+
+.outer-container {
+    display: flex;
+    flex-grow: 1;
 }
 
 .card-container {
     display: flex;
-    flex: 1;
+    flex-grow: 0;
+    padding: 32px;
 }
 
 .card {
     display: flex;
+    padding: 15px;
+    font-weight: 450;
     border: 1px solid #eee;
     box-shadow: 2px 4px 16px rgba(0,0,0,.06);
     border-radius: 4px;
