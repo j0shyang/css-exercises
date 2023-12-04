@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
-*,
+/* *,
 ::before,
 ::after {
     box-sizing: border-box;
-}
+} */
 
 html, body {
     height: 100%;
@@ -30,8 +30,11 @@ body {
 }
 
 .header {
+    display: flex;
     font-size: 20px;
     font-weight: bold;
+    justify-content: space-between;
+    margin-bottom: 8px;
 }
 
 .icon {
