@@ -36,7 +36,7 @@ ul {
     display: flex;
     list-style-type: none;
     margin: 0;
-    padding: 15px;
+    padding: 0;
 }
 
 a {
@@ -58,6 +58,7 @@ a:visited {
 .footer {
     display: flex;
     justify-content: space-between;
+    padding: 15px;
 }
 
 .footer {
