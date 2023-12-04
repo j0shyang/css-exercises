@@ -7,20 +7,6 @@ body {
     font-family: Roboto, sans-serif;
 }
 
-ul {
-    display: flex;
-    list-style-type: none;
-}
-
-a {
-    text-decoration: none;
-    color: rgb(69, 69, 69);
-}
-
-a:visited {
-    color: rgb(69, 69, 69);
-}
-
 img {
     width: 600px;
 }
@@ -38,4 +24,18 @@ input {
     padding: 8px 24px;
     width: 400px;
     margin-bottom: 16px;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(69, 69, 69);
+}
+
+a:visited {
+    color: rgb(69, 69, 69);
 }
