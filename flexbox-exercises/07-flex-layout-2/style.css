@@ -5,7 +5,12 @@ body {
 }
 
 .header {
+    display: flex;
+    align-items: center;
     height: 72px;
+    font-size: 32px;
+    font-weight: 900;
+    padding-left: 16px;
     background: darkmagenta;
     color: white;
 }
