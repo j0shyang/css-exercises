@@ -7,9 +7,6 @@
 }
 
 body {
-    /* display: flex; */
-    /* justify-content: center; */
-    /* align-items: center; */
     height: 100vh;
     margin: 0;
     overflow: hidden;
@@ -38,6 +35,8 @@ input {
 ul {
     display: flex;
     list-style-type: none;
+    margin: 0;
+    padding: 15px;
 }
 
 a {
@@ -55,14 +54,13 @@ a:visited {
     align-items: center;
 }
 
-.header {
+.header,
+.footer {
     display: flex;
     justify-content: space-between;
 }
 
 .footer {
-    display: flex;
-    justify-content: space-between;
     background-color: rgb(237, 237, 237);
 }
 
