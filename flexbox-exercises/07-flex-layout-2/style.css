@@ -38,7 +38,7 @@ body {
     background: royalblue;
     font-size: 24px;
     font-family: sans-serif;
-    padding-left: 15px;
+    padding: 15px;
 }
 
 ul {
@@ -46,6 +46,7 @@ ul {
     flex-direction: column;
     gap: 15px;
     list-style: none;
+    margin: 0;
     padding: 0;
 }
 
