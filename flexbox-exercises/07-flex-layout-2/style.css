@@ -1,3 +1,9 @@
+*,
+::before,
+::after {
+    box-sizing: border-box;
+}
+
 body {
     display: flex;
     flex-direction: column;
@@ -29,6 +35,11 @@ body {
     width: 300px;
     background: royalblue;
     box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex: 1;
 }
 
 .card {
