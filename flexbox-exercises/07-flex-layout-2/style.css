@@ -33,7 +33,6 @@ body {
 }
 
 .sidebar {
-    display: flex;
     flex-shrink: 0;
     width: 300px;
     background: royalblue;
@@ -66,13 +65,17 @@ a:visited {
 
 .card-container {
     display: flex;
-    flex-grow: 0;
+    flex-wrap: wrap;
+    align-content: flex-start;
     padding: 32px;
 }
 
 .card {
     display: flex;
     padding: 15px;
+    margin: 15px;
+    width: 300px;
+    height: 300px;
     font-weight: 450;
     border: 1px solid #eee;
     box-shadow: 2px 4px 16px rgba(0,0,0,.06);
