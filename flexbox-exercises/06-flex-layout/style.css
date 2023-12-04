@@ -7,6 +7,8 @@
 }
 
 body {
+    display: flex;
+    flex-direction: column;
     height: 100vh;
     margin: 0;
     overflow: hidden;
@@ -38,6 +40,7 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    gap: 15px;
 }
 
 a {
@@ -64,12 +67,4 @@ a:visited {
 
 .footer {
     background-color: rgb(237, 237, 237);
-}
-
-.left-links {
-    gap: 15px;
-}
-
-.right-links {
-    gap: 15px;
 }
